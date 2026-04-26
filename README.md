@@ -1,4 +1,3 @@
-[support-turklerboylemi-v5.html](https://github.com/user-attachments/files/27101375/support-turklerboylemi-v5.html)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
